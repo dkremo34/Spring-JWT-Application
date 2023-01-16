@@ -14,11 +14,7 @@
 	<name>Spring-JWT-Application</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-<<<<<<< HEAD
 		<java.version>19</java.version>
-=======
-		<java.version>17</java.version>
->>>>>>> a2f2c91f9eaca3897a69423ea9c27bedc5a032ba
 	</properties>
 	<dependencies>
 		<dependency>
